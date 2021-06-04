@@ -176,7 +176,7 @@ Check: "Ensure all data stored in the S3 bucket is securely encrypted at rest"
 
 Start using Checkov by reading the [Getting Started](docs/1.Welcome/Quick%20Start.md) page.
 
-### Using Docker
+#### Using Docker
 
 
 ```sh
@@ -327,5 +327,7 @@ To skip this API call use the flag `--no-guide`.
 [Bridgecrew](https://bridgecrew.io/?utm_source=github&utm_medium=organic_oss&utm_campaign=checkov) builds and maintains Checkov to make policy-as-code simple and accessible. 
 
 Start with our [Documentation](https://bridgecrewio.github.io/checkov/) for quick tutorials and examples.
+
+
 
 If you need direct support you can contact us at info@bridgecrew.io.
