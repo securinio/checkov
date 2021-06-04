@@ -162,7 +162,7 @@ Check: CKV_AWS_21: "Ensure all data stored in the S3 bucket have versioning enab
 
 
 
-### Scan result sample (CLI)
+#### Scan result sample (CLI)
 
 ```sh
 Passed Checks: 1, Failed Checks: 1, Suppressed Checks: 0
