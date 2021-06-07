@@ -322,7 +322,7 @@ No identifiable customer information is used to query Bridgecrew's publicly acce
 `checkov` uses Bridgecrew's API to enrich the results with links to remediation guides.
 To skip this API call use the flag `--no-guide`.
 
-## Support
+#### Support
 
 [Bridgecrew](https://bridgecrew.io/?utm_source=github&utm_medium=organic_oss&utm_campaign=checkov) builds and maintains Checkov to make policy-as-code simple and accessible. 
 
