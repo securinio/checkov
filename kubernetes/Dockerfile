@@ -1,3 +1,4 @@
+# python
 FROM python
 
 COPY kubernetes/requirements.txt /requirements.txt
